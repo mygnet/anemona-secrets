@@ -55,8 +55,8 @@ El archivo se puede resguardar con una contraseña privada, de tal manera que no
 
 ### *Control de cambios*
 
-See [CHANGELOG.md](https://github.com/mygnet/anemona-task/blob/main/CHANGELOG-es.md)
+See [CHANGELOG.md](https://github.com/mygnet/anemona-secrets/blob/main/CHANGELOG-es.md)
 
 ### *Licencia*
 
-See [LICENSE](https://github.com/mygnet/anemona-task/blob/main/LICENCE)
+See [LICENSE](https://github.com/mygnet/anemona-secrets/blob/main/LICENCE)

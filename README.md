@@ -1,6 +1,6 @@
 # **Anemona Task GitLab**
-[![Changelog](https://img.shields.io/badge/CHANGELOG-0.1.0-orange)](https://github.com/mygnet/anemona-task/blob/main/CHANGELOG.md)
-[![license](https://img.shields.io/badge/LICENSE-MIT-blue)](https://github.com/mygnet/anemona-task/blob/main/LICENSE)
+[![Changelog](https://img.shields.io/badge/CHANGELOG-0.1.0-orange)](https://github.com/mygnet/anemona-secrets/blob/main/CHANGELOG.md)
+[![license](https://img.shields.io/badge/LICENSE-MIT-blue)](https://github.com/mygnet/anemona-secrets/blob/main/LICENSE)
 [![readme](https://img.shields.io/badge/README-Spanish-green)](README-es.md)
 
 VS Code extension that manages passwords from the sidebar panel in an intuitive and visual way.
@@ -55,8 +55,8 @@ The file can be protected with a private password, in such a way that it cannot 
 
 ### *Change control*
 
-See [CHANGELOG.md](https://github.com/mygnet/anemona-task/blob/main/CHANGELOG-es.md)
+See [CHANGELOG.md](https://github.com/mygnet/anemona-secrets/blob/main/CHANGELOG-es.md)
 
 ### *License*
 
-See [LICENSE](https://github.com/mygnet/anemona-task/blob/main/LICENCE)
+See [LICENSE](https://github.com/mygnet/anemona-secrets/blob/main/LICENCE)

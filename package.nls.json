@@ -1,0 +1,5 @@
+{ 
+  "anemona.secrets.keys":"Keychain",
+  "anemona.secrets.about": "About", 
+  "anemona.secrets.logout": "Close keychain"
+}

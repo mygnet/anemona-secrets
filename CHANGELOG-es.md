@@ -1,5 +1,8 @@
 # **Registro de cambios**
 
+## [0.0.2] - 2022-11-13
+- Optimización del código y publicación del código fuente en github, a pedido de "Roman Gruzdev" para que puedan analizar el código en busca de vulnerabilidades, https://github.com/mygnet/anemona-secrets/issues/1.
+
 ## [0.0.1] - 2022-10-18
 - Algoritmo de cifrado para resguardar el archivo local en AES 256 bits
 - Crear archivos locales para almacenar contraseñas cifradas

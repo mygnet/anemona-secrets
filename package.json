@@ -2,7 +2,7 @@
   "name": "vscode-anemona-secrets",
   "displayName": "Anemona Password manager",
   "description": "Password manager from the sidebar panel in an intuitive and visual way..",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "logo.png",
   "repository": {
     "type": "git",
